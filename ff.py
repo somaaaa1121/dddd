@@ -1,2 +1,2 @@
 name = input("Enter your name: ")
-prinf"Hello, {name}!")
+print(f"Hello, {name}!")
